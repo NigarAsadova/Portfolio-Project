@@ -1,0 +1,10 @@
+@media only screen and (max-width: 900px) {
+    .recom-item {
+      width: 100%;
+      height: fit-content;
+    }
+  
+    .recom-item {
+      flex-basis: calc(100% - 20px);
+    }
+  }
